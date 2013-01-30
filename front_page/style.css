@@ -1,0 +1,18 @@
+body{
+  background:#4C57D8;
+}
+
+h1{
+  font-family: 'Wendy One', sans-serif;font-size: 400%;
+  text-align: center;
+}
+p{
+  font-family: 'Wendy One', sans-serif;font-size: 200%;
+  text-align: center;
+}
+
+.images{
+  margin-top: 20px;
+  text-align: center;
+  
+}
