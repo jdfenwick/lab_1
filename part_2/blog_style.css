@@ -3,8 +3,23 @@ body{
 }
 
 h1{
+  font-family: 'Wendy One', sans-serif;font-size: 400%;
   text-align: center;
-  background: #34CFBE; 
-  padding: 0px;
+}
+h2{
+  font-family: 'Wendy One', sans-serif;font-size: 200%;
+  text-align: center;
 }
 
+.content{
+  float: left;
+  background: #fff;
+  height: 200px;
+  width: 300px;
+}
+.navigation{
+  float:right;
+  height:200px;
+  width: 200px;
+  background: #cff;
+}
