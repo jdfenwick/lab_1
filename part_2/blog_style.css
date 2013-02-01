@@ -12,14 +12,19 @@ h2{
 }
 
 .content{
+  position: relative;
   float: left;
   background: #fff;
-  height: 200px;
-  width: 300px;
+  width: 70%;
+  padding: 0px;
 }
 .navigation{
+  position: relative;
   float:right;
-  height:200px;
-  width: 200px;
+  padding: 0px;
+  width: 30%;
   background: #cff;
+}
+.navigation h3{
+  font-family: 'Wendy One', sans-serif;
 }
