@@ -17,7 +17,9 @@ h2{
   position: relative;
   float: left;
   background: #fff;
-  width: 70%;
+  width: 68%;
+  padding: 0px;
+  background: #956BD6;
 }
 .content h3{
   font-family: 'Wendy One', sans-serif; font-size: 150%;
@@ -36,6 +38,8 @@ h2{
   float:right;
   width: 30%;
   background: #cff;
+  padding: 0px;
+  background: #64A8D1;
 }
 .navigation h3{
   font-family: 'Wendy One', sans-serif; font-size: 150%;
